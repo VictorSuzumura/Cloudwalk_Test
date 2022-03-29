@@ -1,5 +1,5 @@
 **Name:** Victor Gabriel Suzumura Cintra <br>
-**Cloudwalk - Risk Analyst – Test**
+**Cloudwalk - Risk Analyst Test**
 
 # Understand the Industry
 
