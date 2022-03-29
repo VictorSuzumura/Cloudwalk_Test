@@ -68,7 +68,7 @@ While the analysis above is useful, it is not specific to the dataset: some paym
   
 </div>
 
-- In both analyses, user 11750 seems to have malicious intent and should be investigated further. 
+- In both analyses, user 11750 seems to have unusual behaviour and should be investigated further. 
 
 ### In addition to the spreadsheet data, what other data would you look at to try to find patterns of possible frauds?
 
